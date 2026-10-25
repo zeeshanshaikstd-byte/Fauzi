@@ -1,0 +1,6 @@
+{
+  "name": "The Lone Battalion",
+  "description": "A mobile-first 1940s trench defense game. Defend your post against relentless enemy waves with mounted machine gun firepower.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
